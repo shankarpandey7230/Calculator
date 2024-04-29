@@ -25,7 +25,7 @@ body {
 table {
   background-color: rgba(128, 128, 128, 0.822);
   height: 40vh;
-  width: 45vw;
+  width: 20vw;
   /* border: 1px solid red; */
   box-shadow: 0px 5px 10px rgba(125, 210, 90, 0.8);
   border-spacing: 10px 20px;
@@ -37,10 +37,11 @@ th {
 }
 td {
   background-color: yellow;
-  width: 40px;
+  width: 20px;
   text-align: center;
   cursor: pointer;
+  border-radius: 2px;
 }
 td:hover {
-  transform: scale(1.03);
+  transform: scale(1.07);
 }
