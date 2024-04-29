@@ -13,7 +13,7 @@ body {
   );
 }
 .container {
-  width: 80vw;
+  width: 100vw;
   height: 80vh;
   display: flex;
   justify-content: center;
@@ -39,6 +39,7 @@ td {
   background-color: yellow;
   width: 40px;
   text-align: center;
+  cursor: pointer;
 }
 td:hover {
   transform: scale(1.03);
