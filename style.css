@@ -40,3 +40,6 @@ td {
   width: 40px;
   text-align: center;
 }
+td:hover {
+  transform: scale(1.03);
+}
